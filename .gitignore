@@ -1,0 +1,7 @@
+.venv
+.env
+.idea
+_pycache_
+alembic/__pycache__/
+static/__pycache__/
+templates/__pycache__/
